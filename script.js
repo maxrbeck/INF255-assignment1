@@ -1,5 +1,7 @@
 console.log("This is javascript page 1");
 
+// Max Beck, favorite color - blue
+
 let cookies = 5;
 const people = 2;
 
